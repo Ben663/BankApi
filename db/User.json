@@ -1,0 +1,6 @@
+[
+    {"passport":123456789,"isActive":true,"credit":0,"cash":315, "id": 1},
+    {"passport":987654321,"isActive":true,"credit":50,"cash":397,"id": 2},
+    {"passport":987654321,"isActive":true,"credit":200,"cash":400, "id": 3},
+    {"passport":101010101,"isActive":true,"credit":100,"cash":45, "id": 4}
+]
